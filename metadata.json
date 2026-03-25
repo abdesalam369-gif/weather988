@@ -1,0 +1,5 @@
+{
+  "name": "Weather Monitoring Dashboard - Mutah and Mazar Municipality",
+  "description": "Real-time emergency weather monitoring dashboard for Karak Governorate, Jordan, using Open-Meteo and RainViewer APIs.",
+  "requestFramePermissions": []
+}
